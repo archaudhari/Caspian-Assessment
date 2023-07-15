@@ -8,13 +8,14 @@ completed. Here are the requirements for the assignment:
 5. Apply appropriate styling using CSS to make the application visually appealing.
 6. Implement a feature to filter tasks based on their completion status (e.g., display only
 completed tasks or only pending tasks).
+
 Instructions:
- You can use HTML for the overall structure of the application, CSS to style the
+1. You can use HTML for the overall structure of the application, CSS to style the
 components and layout, JavaScript to handle the dynamic behaviour of the
 application.
- This assignment will be assessed based on your functionality and designing of the
+2. This assignment will be assessed based on your functionality and designing of the
 project.
- You have 48hrs from the time mentioned in the email to submit this assignment.
- Please share a zip folder with all the files named appropriately in proper formats and
+3. You have 48hrs from the time mentioned in the email to submit this assignment.
+4. Please share a zip folder with all the files named appropriately in proper formats and
 name the zip folder in this format your_name.zip for example Navni_Sudarsanam.zip.
- If any script file is missing your submission will be rejected.
+5. If any script file is missing your submission will be rejected.
