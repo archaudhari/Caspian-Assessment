@@ -19,3 +19,5 @@ project.
 4. Please share a zip folder with all the files named appropriately in proper formats and
 name the zip folder in this format your_name.zip for example Navni_Sudarsanam.zip.
 5. If any script file is missing your submission will be rejected.
+
+"APP URL=https://caspian-assessment-submission.netlify.app/" 
