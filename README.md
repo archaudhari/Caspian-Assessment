@@ -1,6 +1,6 @@
 ﻿# Caspian-Assessment
 Create a simple task management application, where users can add, delete, and mark tasks as
-completed. Here are the requirements for the assignment:
+completed. Here are the requirements for the assignment: https://caspian-assessment-submission.netlify.app/
 1. Implement a form where users can enter a task and submit it.
 2. Display the list of tasks entered by the user.
 3. Each task should have a delete button to remove it from the list.
